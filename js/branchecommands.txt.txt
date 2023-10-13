@@ -1,0 +1,5 @@
+### git branch all branches = “git branch -a”
+### git branch rename = “git branch -m old-name new-name”
+### git branch delete = "git branch --delete <branchname>"
+### maak een nieuwe branch = "git branch <branchname>"
+### check die branch uit = "git checkout <branchname>"
